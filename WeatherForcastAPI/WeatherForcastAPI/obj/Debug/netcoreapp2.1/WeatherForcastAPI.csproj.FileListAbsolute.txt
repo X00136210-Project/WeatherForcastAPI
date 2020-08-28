@@ -1,0 +1,16 @@
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\WeatherForcastAPI.deps.json
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\WeatherForcastAPI.runtimeconfig.json
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\WeatherForcastAPI.runtimeconfig.dev.json
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\WeatherForcastAPI.dll
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\bin\Debug\netcoreapp2.1\WeatherForcastAPI.pdb
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.csprojAssemblyReference.cache
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.RazorAssemblyInfo.cache
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.RazorAssemblyInfo.cs
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.AssemblyInfoInputs.cache
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.AssemblyInfo.cs
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.RazorTargetAssemblyInfo.cache
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.dll
+C:\Users\seans\source\repos\WeatherForcastAPI\WeatherForcastAPI\obj\Debug\netcoreapp2.1\WeatherForcastAPI.pdb
