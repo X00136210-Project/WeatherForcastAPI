@@ -1,0 +1,26 @@
+E/AndroidRuntime: FATAL EXCEPTION: main
+    Process: com.example.weatherclient, PID: 27620
+    java.lang.IllegalArgumentException: @Path can only be used with relative url on @DELETE (parameter #1)
+        for method jsonPlaceHolderAPI.delete
+        at retrofit2.ServiceMethod$Builder.methodError(ServiceMethod.java:755)
+        at retrofit2.ServiceMethod$Builder.methodError(ServiceMethod.java:746)
+        at retrofit2.ServiceMethod$Builder.parameterError(ServiceMethod.java:764)
+        at retrofit2.ServiceMethod$Builder.parseParameterAnnotation(ServiceMethod.java:396)
+        at retrofit2.ServiceMethod$Builder.parseParameter(ServiceMethod.java:339)
+        at retrofit2.ServiceMethod$Builder.build(ServiceMethod.java:207)
+        at retrofit2.Retrofit.loadServiceMethod(Retrofit.java:170)
+        at retrofit2.Retrofit$1.invoke(Retrofit.java:147)
+        at java.lang.reflect.Proxy.invoke(Proxy.java:1006)
+        at $Proxy0.delete(Unknown Source)
+        //at com.example.weatherclient.MainActivity.delete(MainActivity.java:304)
+        //at com.example.weatherclient.MainActivity$5$1.onClick(MainActivity.java:172)
+        at androidx.appcompat.app.AlertController$ButtonHandler.handleMessage(AlertController.java:167)
+        at android.os.Handler.dispatchMessage(Handler.java:107)
+        at android.os.Looper.loop(Looper.java:214)
+        at android.app.ActivityThread.main(ActivityThread.java:7356)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+D/EGL_emulation: eglMakeCurrent: 0xec5250e0: ver 3 0 (tinfo 0xec588d00)
+Process 27620 terminated.
+
